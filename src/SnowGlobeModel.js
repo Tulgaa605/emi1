@@ -150,11 +150,11 @@ function Texts() {
     <>
       <Text3D
         letterSpacing={0.06}
-        size={0.3}
+        size={1}
         font='/Inter_Bold.json'
-        position={[-2.8, 3.3, 10]}
+        position={[-4.5, 3.3, 10]}
       >
-        ANDERSON MANCINI
+        UNDARMAA
         <meshPhysicalMaterial
           metalness={0.2}
           roughness={0.2}
@@ -170,24 +170,7 @@ function Texts() {
           fontSize='0.35'
           lineHeight={0.85}
         >
-          Wishing you a restful holiday season. {'\n\n'}May your Christmas be blessed with lots of love, peace, and happiness.
-        </Text>
-        <Text
-          maxWidth={2.5}
-          textAlign='center'
-          position={[0, 11.2, 0]}
-          fillOpacity={0.6}
-          fontSize='0.1'
-        >
-          I will be on vacation until January 8th. Thank you for all your support in 2023. Great things are coming in 2024. Please stay tunned.
-        </Text>
-        <Text
-          maxWidth={1.5}
-          textAlign='center'
-          position={[0, 10.8, 0]}
-          fontSize='0.08'
-        >
-          Anderson Mancini
+        Yuki duud shine jiliin mend. {'\n\n'}May your Christmas be blessed with lots of love, peace, and happiness.
         </Text>
       </Billboard>
     </>
