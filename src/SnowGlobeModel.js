@@ -154,7 +154,7 @@ function Texts() {
         font='/Inter_Bold.json'
         position={[-4.5, 3, 10]}
       >
-        TSELMUUN
+        UYHAN
         <meshPhysicalMaterial
           metalness={0.2}
           roughness={0.2}
@@ -170,7 +170,7 @@ function Texts() {
           fontSize='0.35'
           lineHeight={0.85}
         >
-        Wishing you a Happy New Year, Tselmuun.{'\n\n'}May your Christmas be blessed with lots of love, peace, and happiness.
+        Wishing you a Happy New Year, Uyhan.{'\n\n'}May your Christmas be blessed with lots of love, peace, and happiness.
         </Text>
       </Billboard>
     </>
