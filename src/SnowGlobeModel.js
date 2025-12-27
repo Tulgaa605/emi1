@@ -152,7 +152,7 @@ function Texts() {
         letterSpacing={0.11}
         size={1.1}
         font='/Inter_Bold.json'
-        position={[-4.5, 3, 10]}
+        position={[-3.5, 3, 10]}
       >
         УЯХАН
         <meshPhysicalMaterial
