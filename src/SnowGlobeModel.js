@@ -149,12 +149,12 @@ function Texts() {
   return (
     <>
       <Text3D
-        letterSpacing={0.06}
+        letterSpacing={0.11}
         size={1.1}
         font='/Inter_Bold.json'
         position={[-4.5, 3, 10]}
       >
-        UYHAN
+        УЯХАН
         <meshPhysicalMaterial
           metalness={0.2}
           roughness={0.2}
